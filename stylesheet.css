@@ -15,12 +15,7 @@ header{
     font-family:'Caveat', cursive;
 }
 
-.category1{
-    font-size:25px;
-    text-align:center;   
-    font-family:"Amatic SC",cursive;
-}
-.category2{
+.list{
     font-size:25px;
     text-align:center;   
     font-family:"Amatic SC",cursive;
@@ -31,4 +26,7 @@ header{
     font-family:'Amatic SC',cursive;
     padding-left:15px;
     margin-bottom:15px;
+}
+body{
+    height:2000px;
 }
